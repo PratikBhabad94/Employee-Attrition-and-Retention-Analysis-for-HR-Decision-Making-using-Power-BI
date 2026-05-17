@@ -4,89 +4,55 @@
 The HR Analytics Dashboard is a Power BI-based project that provides insightful visualizations and analysis of Human Recourses data. Also help an organization to improve employee performance and improve employee retention. 
 
 
- # About Project
+ # Problem Statement
 
-The HR Analytics Dashboard provides a comprehensive view of attrition rate trends within the organization. It empowers HR managers to identify attrition hotspots and implement targeted retention strategies. By enhancing data-driven decision-making, the project has resulted in a notable reduction in attrition rates.
+Organizations often face challenges with high employee attrition, leading to increased recruitment costs, reduced productivity, and workforce instability. This project aims to help HR departments analyze employee data using SQL, Power BI, and Power Query to identify the key factors influencing employee turnover, such
+as salary, job role, experience, education field, and demographics. Through interactive dashboards and analytical insights, the solution supports data-driven HR decision-making for improving employee retention, workforce planning, and overall organizational performance
 
 
  # Technologies Used
 
- • 📈	Power BI
+ •	Power BI
 
- • 🔢	Excel
-
-
-# Process
-
-•	Dataset collected from online.
-
-•	Data Clean, Organize and Analyze in Excel
-
-•	Understanding the Data.
-
-•	Data Processing and Dashboard creation in Power BI
-
-•	Data Visualization.
+ • SQL
 
 
-# Dashboard
+Business Impact ( HR-Focused & Actionable )
+
+• Which employee groups are most likely to leave?
+
+• Which factors combined drive early attrition?
+
+• Where should retention budgets be prioritized?
+
+• How can we identify at-risk employees before they resign?
+
+• What role do promotion cycles play in turnover?
 
 
-![image](https://github.com/user-attachments/assets/5adccc18-1533-4d75-8a23-2aec06b9aba9)
+# Key HR Takeaways for Retention Strategy
 
+· Sales & HR are crisis zones: They have the highest attrition rates (20.74% and 19.35%).
 
+· Low satisfaction is a dealbreaker: Attrition rate jumps to 22.55% when job satisfaction is level 1.
 
-# Dashboard Content
+· Pay is a baseline, not a solution: Most attrition happens in the lowest salary band.
 
+· Watch your high-performers: Top talent is leaving due to low raises and lack of promotion.
 
-1st Sheet : Department level filters.
+· Overtime burns out critical roles: Especially high impact for Lab Technicians and Sales Executives.
 
+· Stagnation predicts exit: If no promotion in 3+ years, attrition risk spikes.
 
-2nd Sheet : KPIs
+· Target retention spend: Focus budget only on high performers, not all attrition.
 
-•	Employee Count : This provides a snapshot of the total number of employees in organization.
-
-•	Attrition count : This indicates the number of employees who have left the company.
-
-•	Attrition Rate : This calculates the percentage of employees who have left, relative to the total employees count.
-
-•	Average Age : This shows the average Age of the Employees.
-
-•	Average Salary: This shows the average salary of the Employees.
-
-•	Average Years: This shows how many years the employee has worked for organization
-
-•	KPI chart : Distribution between male and female
-
-
-3rd Sheet : Attrition by education
-
-•	This pie chart shows the attrition rates categorized by education fields. It helps determine if there are any specific education fields with higher attrition rates.
-
-4th Sheet : Attrition by age
-
-•	This bar graph shows the attrition rates segmented by different age groups.
-
-5th Sheet : Attrition by years at company
-
-•	This chart shows how many years an employees worked for an organization and then left.
-
-6th Sheet : Attrition by salary
-
-•	This chart shows how many employee left the company because of salary reason.
-
-7th Sheet : Attrition by job role
-
-•	This chart shows job roles with higher attrition rates.
-
-8th sheet : job role
-
-•	The matrix chart shows job satisfaction ratings for different job roles or positions. It enables us to identify areas of high or low job satisfaction within organization.
+· Flag men in specific roles: Male attrition count is higher and driven by specific jobs (Lab Tech, Sales).
 
 
 # Conclusion
 
-The HR Analytics Dashboard provides valuable insights into employee attrition, highlighting critical areas for improvement. By focusing on KPIs such as attrition rate, gender, education field, job role, and average age, organizations can develop targeted strategies to enhance employee satisfaction and retention.
+The Employee Attrition and Retention Analysis project was developed to help HR teams identify the key reasons behind employee turnover and improve workforce retention. Using SQL, Power BI, and Power Query, workforce data was analyzed through business-driven SQL queries and interactive dashboards to
+uncover insights related to overtime, job role, experience, and employee satisfaction. The project supports data-driven HR decision-making by helping organizations reduce attrition, improve employee satisfaction, and optimize workforce planning.
 
 
 
