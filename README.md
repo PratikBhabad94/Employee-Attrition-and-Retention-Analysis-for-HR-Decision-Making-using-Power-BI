@@ -17,7 +17,7 @@ as salary, job role, experience, education field, and demographics. Through inte
  • SQL
 
 
-Business Impact ( HR-Focused & Actionable )
+# Business Impact ( HR-Focused & Actionable )
 
 • Which employee groups are most likely to leave?
 
