@@ -1,6 +1,8 @@
 # Employee Attrition and Retention Analysis for HR Decision Making 
 
 
+
+
  # Problem Statement
 
 Organizations often face challenges with high employee attrition, leading to increased recruitment costs, reduced productivity, and workforce instability. This project aims to help HR departments analyze employee data using SQL, Power BI, and Power Query to identify the key factors influencing employee turnover, such
