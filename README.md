@@ -1,4 +1,4 @@
-# Employee Attrition and Retention Analysis
+# Employee Attrition and Retention Analysis for HR Decision Making
 
 This project helps HR teams predict and prevent employee attrition. Using SQL and Power BI, it analyzes 1470 employee records to identify high-risk departments, job roles, and satisfaction drivers. Delivers an interactive dashboard to flag at-risk employees before they resign.
 
